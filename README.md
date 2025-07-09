@@ -6,7 +6,7 @@ Aspiring Data Scientist| Engineering Student
 I'm passionate about data, and solving real-world problems with code.  
 Currently pursuing a degree in **Data Science Engineering**
 
----
+--
 
 ## 🔤 Languages
 - Python  
