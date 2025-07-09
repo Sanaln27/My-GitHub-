@@ -33,4 +33,5 @@ Currently pursuing a degree in **Data Science Engineering**
 ---
 
 ## 📫 Let’s Connect
-[Email]. sanalnadaf786@gmail.com
+[Email](sanalnadaf786@gmail.com)
+[linkedin]\Sana L Nadaf
