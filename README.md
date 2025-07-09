@@ -9,10 +9,10 @@ Currently pursuing a degree in **Data Science Engineering**
 --
 
 ## 🔤 Languages
-- Python  
-- SQL / MySQL  
-- HTML  
+- Python   
 - C
+- HTML
+- SQL
 
 ## 🛠️ Tools & Libraries
 - Pandas  
