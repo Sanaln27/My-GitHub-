@@ -18,11 +18,7 @@ Currently pursuing a degree in **Data Science Engineering**
 - Pandas  
 - NumPy  
 - Matplotlib  
-- Scikit-learn  
-- Jupyter Notebook  
-- Git & GitHub  
-- VS Code
-
+- jupyter notebook
 ---
 
 ## 🌱 Currently Learning
